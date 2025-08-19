@@ -1,5 +1,7 @@
 # CS405_Secure_Coding
 
+## Link to Presentation: https://youtu.be/AmsrQ7SHUtA
+
 ## Portfolio Reflection
 
 ### Adopting a Secure Coding Standard / Leaving Security to the End
